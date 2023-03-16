@@ -64,7 +64,7 @@
     <style>
     .container{
         /* border: 0.3rem black solid; */
-        width: 28rem;
+        width: 30rem;
         max-width: 100%; 
         margin: 2rem auto;
         padding: 1rem;

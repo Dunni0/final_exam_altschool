@@ -46,8 +46,6 @@ import {useRouter} from 'vue-router';
   color: black;
   margin-top: 30px;
   background-color: #ffff;
-  max-height: 100%;
-  max-width: 100%;
 }
 
 nav{
