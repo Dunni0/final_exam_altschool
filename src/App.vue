@@ -44,7 +44,7 @@ import {useRouter} from 'vue-router';
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: black;
-  margin-top: 60px;
+  margin-top: 30px;
   background-color: #ffff;
   max-height: 100%;
 }
