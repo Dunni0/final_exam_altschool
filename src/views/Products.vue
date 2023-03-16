@@ -47,7 +47,7 @@ export default
     border-radius: 0 2rem 0;
     display: grid;
     gap: 1rem;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     background-color: black;
 }
 
