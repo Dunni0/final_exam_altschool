@@ -1,7 +1,7 @@
 <template> 
 <div class="container">
     <div>
-    <h2> Hello! </h2>
+    <h2> Hello! 👋 </h2>
     <p> welcome back. </p>
 </div>
 <form>

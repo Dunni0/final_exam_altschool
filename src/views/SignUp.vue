@@ -1,7 +1,7 @@
 <template> 
     <div class="container">
         <div>
-        <h2> Hello! </h2>
+        <h2> Hello! 👋 </h2>
         <p> Create an account. </p>
     </div>
     <form>
@@ -70,15 +70,16 @@
         padding: 1rem;
         box-shadow: 2px 2px 4px black;
         border-radius: 0 2rem 0;
+        background-color: black;
     }
 
     h2{
-        color: rgba(15, 75, 45, 0.541);
+        color: #ffff;
     }
 
     p, .p{
         text-decoration: none;
-        color: rgba(6, 56, 31, 0.541);
+        color: #b8adad;
         font-size: small;
     }
 
@@ -97,7 +98,7 @@
        margin-right: auto;
        margin-bottom: 0.3rem;
        font-weight: 700;
-       color: rgba(15, 75, 45, 0.541);
+       color: #ffff;
     }
     
     input{
@@ -105,14 +106,14 @@
         max-width: 100%;
         padding: 0.5rem;
         border: none;
-        box-shadow: 2px 2px 4px black;
+        /* box-shadow: 2px 2px 4px black; */
         outline: none;
     }
 
     input::placeholder{
         font-size: small;
         font-style: italic;
-        color: rgba(3, 32, 18, 0.541);
+        color: rgba(2, 19, 10, 0.541);
     }
     
     .email,

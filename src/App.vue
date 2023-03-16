@@ -50,7 +50,6 @@ import {useRouter} from 'vue-router';
 }
 
 nav{
-  /* border: 2px solid black; */
   width: 35rem;
   max-width: 100%;
   margin: 1rem auto;
@@ -59,13 +58,11 @@ nav{
   justify-content: center;
   align-items: center;
   padding: 0.5rem;
-  color: rgba(15, 75, 45, 0.541);
 }
 
 .nav{
   margin: 0 auto;
   text-decoration: none;
-  color: black;
   transition: transform 0.5;
   transition-duration: 0.2s;
   font-weight: 700;
