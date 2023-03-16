@@ -47,6 +47,7 @@ import {useRouter} from 'vue-router';
   margin-top: 30px;
   background-color: #ffff;
   max-height: 100%;
+  padding: 1rem;
 }
 
 nav{
