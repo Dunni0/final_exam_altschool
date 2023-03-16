@@ -22,7 +22,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-```
+
 
 ### Link to live Project
 see [link](https://quiet-torrone-644ed3.netlify.app/)
