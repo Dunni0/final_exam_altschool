@@ -1,5 +1,5 @@
 <template> 
-<div class="wrapper"> 
+<div class="wrapper">
      <div class="minC" v-for="product in products" :key="product.id">
        <router-link class="p"
        :to="{ params: {id: product.id, slug: `${product.title.split(' ').join('-')}-details`}}">
@@ -58,7 +58,7 @@ export default
 
 .p{
     text-decoration: none;
-    color: rgba(6, 56, 31, 0.541);
+    color: rgba(9, 133, 71, 0.541);
     font-weight: bold;
 }
 

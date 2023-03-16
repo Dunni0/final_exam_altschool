@@ -67,7 +67,7 @@ nav{
   transition-duration: 0.2s;
   font-weight: 700;
   font-size: large;
-  color: rgba(15, 75, 45, 0.541);
+  color: black;
 }
 
 .nav:hover{
