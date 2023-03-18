@@ -7,7 +7,6 @@
        <p> Brand: {{ product.brand }}</p>
        <p> Category: {{ product.category }}</p>
        <p> In Stock: {{ product.stock }}</p>
-
        </router-link>
      </div>
 </div>

@@ -80,39 +80,5 @@
 
 
 <style>
-/* .container{
-    border: 0.3rem black solid;
-    width: 30rem;
-    max-width: 100%; 
-    margin: 2rem auto;
-    padding: 1rem;
-}
 
-form{
-    display: flex;
-    flex-direction: column;
-    padding: 0.5rem;
-}
-
-label{
-   margin-right: auto;
-   margin-bottom: 0.3rem;
-}
-
-input{
-    width: 20rem;
-    max-width: 100%;
-    padding: 0.2rem;
-}
-
-.email,
-.passW{
-    margin-bottom: 1rem;
-}
-
-button{
-    padding: 0.3rem 0 0.3rem;
-    max-width: 100%;
-    margin: 0.4rem auto;
-}  */
 </style>
